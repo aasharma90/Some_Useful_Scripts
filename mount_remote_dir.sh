@@ -1,4 +1,6 @@
 #!/bin/sh 
+# Script to mount a remote directory
+# Courtesy: Dr. Chulwoo Lee, chulwoo.lee@nus.edu.sg
 
 MNT_FROM=aashishsharma@viml7.duckdns.org:/home/aashishsharma/Desktop/SceneFlow_Dataset
 MNT_TO=/home/aashishsharma/Desktop/Datasets/SceneFlow_Dataset
