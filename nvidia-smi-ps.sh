@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to observe GPUs occupancy (with the information of their occupant(s))
+# Script to observe GPUs occupancy (with information of their occupant(s))
 # Courtesy: Dr. Chulwoo Lee, chulwoo.lee@nus.edu.sg
 nvidia-smi
 
