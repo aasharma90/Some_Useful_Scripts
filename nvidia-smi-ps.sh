@@ -1,4 +1,6 @@
 #!/bin/bash
+# Script to observe GPUs occupancy (with the information of their occupant(s))
+# Courtesy: Dr. Chulwoo Lee, chulwoo.lee@nus.edu.sg
 nvidia-smi
 
 # PIDS=`nvidia-smi | tail -n +25 | head -n -1 | sed 's/\s\s*/ /g' | cut -d' ' -f3`
